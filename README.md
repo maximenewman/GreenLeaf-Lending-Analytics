@@ -8,6 +8,18 @@ Interactive loan-readiness dashboard built for the RBC × BCCAI × SFU Beedie Ag
 
 *Click the thumbnail to watch the demo: live filtering, the Loan Readiness Score, the Banker/Farmer toggle, and the what-if slider crossing the approval band.*
 
+## Get started
+
+No build step, no dependencies — just serve the repo and open the dashboard:
+
+```bash
+git clone https://github.com/maximenewman/GreenLeaf-Lending-Analytics.git
+cd GreenLeaf-Lending-Analytics
+python -m http.server 8000
+```
+
+Then open [http://localhost:8000/dashboard/GreenLeaf%20Dashboard.html](http://localhost:8000/dashboard/GreenLeaf%20Dashboard.html) in your browser.
+
 ## The problem
 
 GreenLeaf's sensors fired 6,460 alerts in one season. The crew acted on 4,820 and ignored 1,640. The ignored alerts were not noise: on average they were the most valuable ones in the dataset. The dashboard turns that buried fact into decisions.
