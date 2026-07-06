@@ -4,7 +4,7 @@ Interactive loan-readiness dashboard built for the RBC × BCCAI × SFU Beedie Ag
 
 ## Demo
 
-[![Watch the demo video](thumnnail.png)](GreenLeaf%20Precision%20Agriculture%20Loan%20Readine%202026-07-05%2019-22-21.mp4)
+[![Watch the demo video](thumnnail.png)](https://github.com/user-attachments/assets/d302b062-2bf6-46a1-8de8-c222809ae3d4)
 
 *Click the thumbnail to watch the demo: live filtering, the Loan Readiness Score, the Banker/Farmer toggle, and the what-if slider crossing the approval band.*
 
